@@ -77,6 +77,14 @@ body {
   font-weight: bold;
 }
 
+.card .box .box-content .content {
+  display: none;
+}
+
+.card .box .box-content .visible {
+  display: block;
+}
+
 .line {
   width: 100%;
   display: flex;
