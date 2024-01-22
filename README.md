@@ -2,7 +2,7 @@
 
 ![Design preview for the FAQ accordion coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Welcome!👋
 
 ## Table of Contents
 
